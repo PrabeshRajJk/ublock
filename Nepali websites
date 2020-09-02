@@ -1,0 +1,38 @@
+facebook.com##div[id^=hyperfeed_story_id_]:has(span[data-ft="{\"tn\":\"k\"}"]):not(:has([data-content="1"])):not(:has([data-content="2"])):not(:has([data-content="3"])):not(:has([data-content="4"])):not(:has([data-content="5"])):not(:has([data-content="6"])):not(:has([data-content="7"])):not(:has([data-content="8"])):not(:has([data-content="9"])):not(:has([data-content="w"]))
+
+! 8/10/2020 https://ekantipur.com
+||assets-cdn.kantipurdaily.com/uploads/source/ads/maruti-24320200550461-1972020012511.gif$image
+
+! 8/10/2020 https://www.lokpath.com
+||www.lokpath.com/wp-content/uploads/2020/07/Lokpath-650-by-100.gif$image
+||www.lokpath.com/wp-content/uploads/2020/07/COrona-GIF.gif$image
+||www.lokpath.com/wp-content/uploads/2020/06/300by200px-lokpath.com_.gif$image
+||www.lokpath.com/wp-content/uploads/2019/07/premier-animation-lokpath-300-140.gif$image
+www.lokpath.com##SECTION[class="widget"]<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 "><section class="widget">
+www.lokpath.com##div.mt-4:nth-of-type(6) > .p-3.full-background
+www.lokpath.com##.mt-3.col-xs-12.col-sm-12.col-md-3.col-lg-3 > .p-3.full-background.mt-3
+
+! 2020-09-02 https://www.setopati.com
+www.setopati.com##.col-md-3.slider-ad
+||img.setoparty.com/uploads/bigyapan/1591893862.gif$image
+www.setopati.com##.col-md-9.main-bigyaapan
+||img.setoparty.com/uploads/bigyapan/1593678022.gif$image
+||img.setoparty.com/uploads/bigyapan/1596780362.gif$image
+||img.setoparty.com/uploads/bigyapan/1595035344.gif$image
+||img.setoparty.com/uploads/bigyapan/1598409880.gif$image
+||img.setoparty.com/uploads/bigyapan/1588332472.gif$image
+||img.setoparty.com/uploads/bigyapan/1597832484.gif$image
+||img.setoparty.com/uploads/bigyapan/1598343595.gif$image
+||img.setoparty.com/uploads/bigyapan/1593247551.gif$image
+||img.setoparty.com/uploads/bigyapan/1598521362.gif$image
+||img.setoparty.com/uploads/bigyapan/1598967877.jpeg$image
+www.setopati.com##.imagebox
+||img.setoparty.com/uploads/bigyapan/1597824596.gif$image
+||img.setoparty.com/uploads/bigyapan/1594981462.gif$image
+||img.setoparty.com/uploads/bigyapan/1592292872.jpg$image
+||img.setoparty.com/uploads/bigyapan/1596813930.gif$image
+||img.setoparty.com/uploads/bigyapan/1594872993.gif$image
+||img.setoparty.com/uploads/bigyapan/1597662654.gif$image
+||img.setoparty.com/uploads/bigyapan/1593677999.gif$image
+||img.setoparty.com/uploads/bigyapan/1598160452.gif$image
+www.setopati.com##.bottom-bigyaapan.row
